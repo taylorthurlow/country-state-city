@@ -1,7 +1,7 @@
 {
-  "name": "country-state-city",
-  "version": "2.1.0",
-  "description": "Library for fetching Country, its States and Cities",
+  "name": "@taylorthurlow/country-state-city",
+  "version": "3.0.0",
+  "description": "Easily find countries, states, and their cities",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "sideEffects": false,
@@ -10,14 +10,14 @@
     "build": "tsc -p tsconfig.json",
     "lint": "eslint index.ts __test__ --fix"
   },
-  "author": "harpreetkhalsagtbit@gmail.com",
+  "author": "thurlow@hey.com",
   "license": "GPL-3.0",
   "directories": {
     "lib": "lib"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harpreetkhalsagtbit/country-state-city.git"
+    "url": "git+https://github.com/taylorthurlow/country-state-city.git"
   },
   "keywords": [
     "Country",
@@ -28,9 +28,9 @@
     "Filter"
   ],
   "bugs": {
-    "url": "https://github.com/harpreetkhalsagtbit/country-state-city/issues"
+    "url": "https://github.com/taylorthurlow/country-state-city/issues"
   },
-  "homepage": "https://github.com/harpreetkhalsagtbit/country-state-city#readme",
+  "homepage": "https://github.com/taylorthurlow/country-state-city#readme",
   "devDependencies": {
     "@types/jest": "^26.0.19",
     "@typescript-eslint/eslint-plugin": "^4.12.0",
